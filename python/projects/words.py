@@ -1,0 +1,1 @@
+words = ["apple", "java", "snake"]
