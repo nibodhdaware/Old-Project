@@ -2,3 +2,4 @@ python/
 python_games/
 RandomStoryGenerator/
 hangman/
+.DS_Store
