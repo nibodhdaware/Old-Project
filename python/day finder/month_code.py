@@ -1,14 +1,14 @@
 month_code = {
-    "jan": 6,
+    "jan": 1,
     "feb": 2,
-    "mar": 2,
-    "apr": 5,
-    "may": 7,
-    "june": 3,
-    "july": 5,
-    "aug": 1,
-    "sept": 4,
-    "oct": 6,
-    "nov": 2,
-    "dec": 4
+    "mar": 3,
+    "apr": 4,
+    "may": 5,
+    "jun": 6,
+    "jul": 7,
+    "aug": 8,
+    "sep": 9,
+    "oct": 10,
+    "nov": 11,
+    "dec": 12
 }
