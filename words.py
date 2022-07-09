@@ -1,1 +1,0 @@
-words = ["apple", "java", "snake"]
